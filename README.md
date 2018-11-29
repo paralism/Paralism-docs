@@ -1,2 +1,2 @@
-# Paralism
-Core of block chain in parallel
+# Paralism-docs
+Development documents of Paralism
