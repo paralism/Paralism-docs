@@ -1,7 +1,10 @@
 # Paralism-docs
 Development documents of Paralism
 
-# 中文版本
+# English docs
+* Hyperchain data structure and algorithm in a nut shell [click to view >>](https://www.paralism.com/info/docs/hyperchain-data-structure-and-algorithm-in-a-nut-shell/)
+  
+# 中文文档
 * 节点Restful API [click to view >>](https://www.paralism.com/info/docs/paralism-%e8%8a%82%e7%82%b9-restapi/)
 * 节点RPC接口 [click to view >>](https://www.paralism.com/info/docs/paralism-%e8%8a%82%e7%82%b9-rpc-%e6%8e%a5%e5%8f%a3/)
 * 节点CLI基本操作 [click to view >>](https://www.paralism.com/info/docs/paralismnodecliguide/)
